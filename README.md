@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @barreraabc
+- 👀 I’m interested in computational physics
+- 🌱 I’m currently learning Python and Java
