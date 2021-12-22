@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @barreraabc
-- 👀 I’m interested in computational physics
-- 🌱 I’m currently learning Python and Java
+This is a first repository for my last programs I did for the university.
+
+I will be changing the file locations and clasifying them in the future.
