@@ -1,0 +1,7 @@
+0.5d0	! Ti
+5.0d0	! Tf
+0.5d0	! Term
+100000	! steps
+100	! frames
+1000	! nescr
+25	! nT
